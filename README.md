@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Solving bugs since last year <br>📚 I'm currently learning backend development like how to deal with Api, from creating to handling and making my hand dirty in DataBases like mongoDB  <br>🎯 Goals: Want contribute in an impactful project which have potential to bring some change in the world.</p>
+<p align="left">✨ Solving bugs since last year <br>📚 I'm currently learning Fullstack development like how to deal with Api,making better User-Interface, from creating to handling and making my hand dirty in DataBases like mongoDB  <br>🎯 Goals: Want contribute in an impactful project which have potential to bring some change in the world.</p>
 
 ###
 
